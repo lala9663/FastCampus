@@ -1,4 +1,4 @@
-package util;
+package chapter3.util;
 
 import java.util.function.Function;
 

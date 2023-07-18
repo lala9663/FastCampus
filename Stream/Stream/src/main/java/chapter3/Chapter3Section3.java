@@ -1,3 +1,5 @@
+package chapter3;
+
 import java.util.function.BiFunction;
 
 public class Chapter3Section3 {

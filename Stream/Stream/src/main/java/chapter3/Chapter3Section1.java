@@ -1,4 +1,6 @@
-import util.Adder;
+package chapter3;
+
+import chapter3.util.Adder;
 
 import java.util.function.Function;
 

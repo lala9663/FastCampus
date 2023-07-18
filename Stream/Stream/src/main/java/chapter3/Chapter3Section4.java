@@ -1,4 +1,6 @@
-import util.TriFunction;
+package chapter3;
+
+import chapter3.util.TriFunction;
 
 public class Chapter3Section4 {
     public static void main(String[] args) {
