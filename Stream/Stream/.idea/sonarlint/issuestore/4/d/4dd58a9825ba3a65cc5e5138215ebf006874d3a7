@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“°Ö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‚÷Åùÿÿÿÿ
+O
+java:S1612
+"9Replace this lambda with method reference 'Math::random'.(Õ¥ß¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ç÷‚’úÿÿÿÿ
+j
+java:S4276"TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(Ğ€‹µ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(îğ˜Ã

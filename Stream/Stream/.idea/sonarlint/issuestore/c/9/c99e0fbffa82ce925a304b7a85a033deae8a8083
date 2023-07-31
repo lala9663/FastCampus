@@ -1,0 +1,21 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ž“°Ö8”ºÉ½–1
+b
+java:S1854"ERemove this useless assignment to local variable "myStringProcessor".(®´Ð¡8™ºÉ½–1
+f
+java:S1854	"DRemove this useless assignment to local variable "myStringConsumer".(´ùÉåÿÿÿÿÿ8™ºÉ½–1
+b
+java:S1612	"@Replace this lambda with method reference 'System.out::println'.(´ùÉåÿÿÿÿÿ8šºÉ½–1
+T	java:S106
+"9Replace this use of System.out or System.err by a logger.(ƒÚáB8šºÉ½–1
+W
+java:S1481	"5Remove this unused "myStringConsumer" local variable.(´ùÉåÿÿÿÿÿ8›ºÉ½–1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÿøèÁ8›ºÉ½–1
+n
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(®´Ð¡8›ºÉ½–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–¦¬›úÿÿÿÿ8œºÉ½–1
+S
+java:S1481"6Remove this unused "myStringProcessor" local variable.(®´Ð¡8œºÉ½–1
+]	java:S125"<This block of commented-out lines of code should be removed.(‘»ùÿÿÿÿ8œºÉ½–1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“¡û©8œºÉ½–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã§ÎÉøÿÿÿÿ8œºÉ½–1
